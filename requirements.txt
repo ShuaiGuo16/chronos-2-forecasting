@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch>=2.11,<3
+chronos-forecasting>=2.2,<3
+pandas[pyarrow]>=3.0,<4
+numpy>=2.4,<3
+matplotlib>=3.10,<4
+ipykernel>=7,<8
+jupyterlab>=4.5,<5
+nbconvert>=7.17,<8
+hf_xet>=1.5,<2
+pip-system-certs>=5.3,<6

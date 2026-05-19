@@ -1,0 +1,12 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local notebook execution outputs
+*.executed.ipynb
+
+# Local model and package caches
+.cache/
+hf_cache/
+models/
